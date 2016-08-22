@@ -1,0 +1,14 @@
+layout_spectrum: 0.8477071914821863
+typography_spectrum: 0.2299412158317864
+color:
+  brandStrength: 0.9557221317663789
+  lightness: 0.6767132880631834
+  saturation: 0.38094014558009803
+  rhythmicContrast: 0.4562841607257724
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Heartlines
